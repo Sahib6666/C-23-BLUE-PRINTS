@@ -1,1 +1,2 @@
-# C-23-BLUE-PRINTS
+# p5.play-boilerplate
+Boiler plate for p5.play
